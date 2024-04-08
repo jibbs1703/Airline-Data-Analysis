@@ -14,7 +14,6 @@ The data was collected and published by the United States Department of Transpor
 - [Seaborn](https://seaborn.pydata.org/)
 
 ## Author(s)
-**Abraham Ajibade**
-- [Linkedin](https://www.linkedin.com/in/abraham-ajibade-759772117)
-**Boluwtife Olayinka**
-- [Linkedin]((https://www.linkedin.com/in/ajibade-bolu/)
+- **Abraham Ajibade** [Linkedin](https://www.linkedin.com/in/abraham-ajibade-759772117)
+- **Boluwtife Olayinka** [Linkedin](https://www.linkedin.com/in/ajibade-bolu/) 
+
